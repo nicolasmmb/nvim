@@ -1,0 +1,5 @@
+require("cfg.lazy")
+require("cfg.core")
+require("cfg.lsp")
+require("cfg.themes")
+require("cfg.plugins")
