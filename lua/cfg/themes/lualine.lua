@@ -112,7 +112,7 @@ return {
         lualine.setup(
             {
                 options = {
-                    theme = std
+                    theme = "dracula"
                 },
                 sections = {
                     lualine_x = {
